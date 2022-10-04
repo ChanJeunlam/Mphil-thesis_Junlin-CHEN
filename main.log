@@ -1,0 +1,1132 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.7.4)  23 AUG 2022 11:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (./ustthesis.cls
+Document Class: ustthesis 2002/07/23 v2.1 LaTeX document class
+This class file is adapted from `ustthesis.sty' v1.3 (for LaTeX 2.09).
+Please report any problems to kchan@cs.ust.hk
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+\AuthorNameLength=\skip49
+\descriptionmargin=\dimen135
+\maxmem=\skip50
+\currmem=\skip51
+\c@@members=\count176
+\c@@minmembers=\count177
+\c@definition=\count178
+\c@theorem=\count179
+\c@lemma=\count180
+\c@algo=\count181
+\c@conjecture=\count182
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip52
+For additional information on amsmath, use the `?' option.
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen136
+))
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen137
+) (d:/software for research/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.st
+y
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count183
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count184
+\leftroot@=\count185
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count186
+\DOTSCASE@=\count187
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count188
+\c@MaxMatrixCols=\count189
+\dotsspace@=\muskip16
+\c@parentequation=\count190
+\dspbrk@lvl=\count191
+\tag@help=\toks16
+\row@=\count192
+\column@=\count193
+\maxfields@=\count194
+\andhelp@=\toks17
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks18
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.s
+ty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics/graphics.s
+ty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphi
+cs.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex
+.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+)
+\epsfxsize=\dimen147
+\epsfysize=\dimen148
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.st
+y
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.s
+ty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/algorithms/algorith
+m.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count195
+\float@exts=\toks21
+\float@box=\box47
+\@float@everytoks=\toks22
+\@floatcapt=\box48
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks23
+\c@algorithm=\count196
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/algorithms/algorith
+mic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count197
+\c@ALC@line=\count198
+\c@ALC@rem=\count199
+\c@ALC@depth=\count266
+\ALC@tlm=\skip55
+\algorithmicindent=\skip56
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure
+.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+
+
+Package subfigure Warning: Your document class has a bad definition
+ of \endfigure, most likely
+ \let\endfigure=\end@float
+ which has now been changed to
+ \def\endfigure{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endfigure.
+ Please complain to your document class author.
+
+
+Package subfigure Warning: Your document class has a bad definition
+ of \endtable, most likely
+ \let\endtable=\end@float
+ which has now been changed to
+ \def\endtable{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endtable.
+ Please complain to your document class author.
+
+\subfigtopskip=\skip57
+\subfigcapskip=\skip58
+\subfigcaptopadj=\dimen149
+\subfigbottomskip=\skip59
+\subfigcapmargin=\dimen150
+\subfiglabelskip=\skip60
+\c@subfigure=\count267
+\c@lofdepth=\count268
+\c@subtable=\count269
+\c@lotdepth=\count270
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/subfigure/subfigure
+.cfg)
+\subfig@top=\skip61
+\subfig@bottom=\skip62
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.
+cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+\c@proof=\count271
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/geometry/geometry.s
+ty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks24
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.s
+ty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.s
+ty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcm
+ds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/infwarerr/infware
+rr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetke
+ys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvde
+finekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfesca
+pe.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxm
+acro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions
+.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen159
+\Hy@linkcounter=\count275
+\Hy@pagecounter=\count276
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.s
+ty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds
+.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count277
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count278
+ (d:/software for research/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen160
+
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigint
+calc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count279
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi
+.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count280
+\c@Item=\count281
+\c@Hfootnote=\count282
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.de
+f
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend
+.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count283
+\c@bookmark@seq@number=\count284
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/reru
+nfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/uniquecounter/uni
+quecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip63
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/setspace/setspace.s
+ty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend
+-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count285
+\l__pdf_internal_box=\box49
+) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
+1.
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pd
+f.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen163
+\scratchbox=\box50
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen164
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks26
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstop
+df-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopd
+f-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(79.6678pt, 454.9594pt, 79.6678pt)
+* v-part:(T,H,B)=(79.6678pt, 635.63438pt, 79.6678pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=454.9594pt
+* \textheight=635.63438pt
+* \oddsidemargin=7.39781pt
+* \evensidemargin=7.39781pt
+* \topmargin=7.39781pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=20.0pt
+* \marginparwidth=71.13188pt
+* \marginparsep=71.13188pt
+* \columnsep=10.0pt
+* \skip\footins=8.0pt plus 2.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box51
+Package hyperref Info: Link coloring OFF on input line 61.
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.st
+y
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/refcount/refcount.s
+ty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(d:/software for research/texlive/2020/texmf-dist/tex/generic/gettitlestring/ge
+ttitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count292
+)
+LaTeX Info: Redefining \ref on input line 61.
+LaTeX Info: Redefining \pageref on input line 61.
+LaTeX Info: Redefining \nameref on input line 61.
+ (./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+
+Title page
+Copyright
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
+5.
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 75.
+
+[1
+
+
+{d:/software for research/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex
+.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 75.
+
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
+
+
+(d:/software for research/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Authorization Page
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 75.
+
+[2]
+\c@@membersprinted=\count293
+
+Signature Page
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 75.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 75.
+
+[3] (./chapter/00_acknowledgments.tex
+Acknowledgments
+)
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 105.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 105.
+
+[4
+
+]
+Table of Contents
+(./main.toc
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 19.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 19.
+
+[5
+
+]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 39.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 39.
+
+[6])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 113.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 113.
+
+[7]
+List of Figures
+(./main.lof
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 27.
+
+[8
+
+])
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 121.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 121.
+
+[9]
+List of Tables
+(./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ (./chapter/00_abstract.tex
+Abstract
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 1.
+
+[10
+
+]) (./chapter/01_Introduction.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\nbi' on input line 1.
+
+[11]
+
+Warning: No abstract. 
+
++-------------------------------------------------------------------
+| For usage of the class, please refer to the following sample file:
+| /homes/kchan/pub/latex/ustthesis_test.tex
++-------------------------------------------------------------------
+
+CHAPTER 1.
+<chapter/figure/visible eddies and currents in the North Atlantic.png, id=371, 
+131.4pt x 74.022pt>
+File: chapter/figure/visible eddies and currents in the North Atlantic.png Grap
+hic file (type png)
+<use chapter/figure/visible eddies and currents in the North Atlantic.png>
+Package pdftex.def Info: chapter/figure/visible eddies and currents in the Nort
+h Atlantic.png  used on input line 10.
+(pdftex.def)             Requested size: 398.33858pt x 224.43845pt.
+<chapter/figure/Plankton Blooms.jpg, id=375, 341.94865pt x 119.80328pt>
+File: chapter/figure/Plankton Blooms.jpg Graphic file (type jpg)
+<use chapter/figure/Plankton Blooms.jpg>
+Package pdftex.def Info: chapter/figure/Plankton Blooms.jpg  used on input line
+ 24.
+(pdftex.def)             Requested size: 426.79134pt x 149.53252pt.
+[1
+
+]
+<chapter/figure/Global distribution of the zonal and meridional transport of fl
+uid trapped by mesoscale eddies.png, id=389, 416.30531pt x 313.9228pt>
+File: chapter/figure/Global distribution of the zonal and meridional transport 
+of fluid trapped by mesoscale eddies.png Graphic file (type png)
+<use chapter/figure/Global distribution of the zonal and meridional transport o
+f fluid trapped by mesoscale eddies.png>
+Package pdftex.def Info: chapter/figure/Global distribution of the zonal and me
+ridional transport of fluid trapped by mesoscale eddies.png  used on input line
+ 34.
+(pdftex.def)             Requested size: 426.79134pt x 321.8448pt.
+ [2 <./chapter/figure/visible eddies and currents in the North Atlantic.png>] [
+3 <./chapter/figure/Plankton Blooms.jpg>] [4 <./chapter/figure/Global distribut
+ion of the zonal and meridional transport of fluid trapped by mesoscale eddies.
+png>]
+Overfull \hbox (24.68736pt too wide) in paragraph at lines 86--87
+[]\OT1/ptm/m/n/12 McWilliams de-vel-oped the ear-li-est au-to-matic eddy de-tec
+-tion al-go-rithm for de-cay-ing two-dimensional
+ []
+
+<chapter/figure/closed vorticity contour in the turbulence flow.png, id=427, 35
+5.3275pt x 175.40532pt>
+File: chapter/figure/closed vorticity contour in the turbulence flow.png Graphi
+c file (type png)
+<use chapter/figure/closed vorticity contour in the turbulence flow.png>
+Package pdftex.def Info: chapter/figure/closed vorticity contour in the turbule
+nce flow.png  used on input line 90.
+(pdftex.def)             Requested size: 426.79134pt x 210.68872pt.
+[5] [6 <./chapter/figure/closed vorticity contour in the turbulence flow.png (P
+NG copy)>]
+<chapter/figure/A schematic summary of the automated eddy identification proced
+ure for the case of an anticyclonic eddy.png, id=454, 619.56468pt x 226.59656pt
+>
+File: chapter/figure/A schematic summary of the automated eddy identification p
+rocedure for the case of an anticyclonic eddy.png Graphic file (type png)
+<use chapter/figure/A schematic summary of the automated eddy identification pr
+ocedure for the case of an anticyclonic eddy.png>
+Package pdftex.def Info: chapter/figure/A schematic summary of the automated ed
+dy identification procedure for the case of an anticyclonic eddy.png  used on i
+nput line 116.
+(pdftex.def)             Requested size: 426.79134pt x 156.09247pt.
+ [7 <./chapter/figure/A schematic summary of the automated eddy identification 
+procedure for the case of an anticyclonic eddy.png (PNG copy)>]
+<chapter/figure/Lagrangian coherent structures.jpg, id=469, 401.24907pt x 403.5
+075pt>
+File: chapter/figure/Lagrangian coherent structures.jpg Graphic file (type jpg)
+
+<use chapter/figure/Lagrangian coherent structures.jpg>
+Package pdftex.def Info: chapter/figure/Lagrangian coherent structures.jpg  use
+d on input line 133.
+(pdftex.def)             Requested size: 199.16928pt x 200.29404pt.
+
+[8
+
+ <./chapter/figure/Lagrangian coherent structures.jpg>]
+<chapter/figure/coherent structure and red spot.jpg, id=479, 582.175pt x 379.41
+75pt>
+File: chapter/figure/coherent structure and red spot.jpg Graphic file (type jpg
+)
+<use chapter/figure/coherent structure and red spot.jpg>
+Package pdftex.def Info: chapter/figure/coherent structure and red spot.jpg  us
+ed on input line 142.
+(pdftex.def)             Requested size: 369.88582pt x 241.06638pt.
+ [9 <./chapter/figure/coherent structure and red spot.jpg>]
+<chapter/figure/mismatch.jpg, id=501, 187.39035pt x 108.08522pt>
+File: chapter/figure/mismatch.jpg Graphic file (type jpg)
+<use chapter/figure/mismatch.jpg>
+Package pdftex.def Info: chapter/figure/mismatch.jpg  used on input line 158.
+(pdftex.def)             Requested size: 341.43306pt x 196.95123pt.
+ [10 <./chapter/figure/mismatch.jpg>]
+[11
+
+] [12
+
+] [13]) (./chapter/02_Eddy detection methods.tex
+CHAPTER 2.
+[14
+
+] [15]
+<chapter/figure/research area topography map_earth.png, id=568, 327.1422pt x 33
+5.8146pt>
+File: chapter/figure/research area topography map_earth.png Graphic file (type 
+png)
+<use chapter/figure/research area topography map_earth.png>
+Package pdftex.def Info: chapter/figure/research area topography map_earth.png 
+ used on input line 37.
+(pdftex.def)             Requested size: 426.79134pt x 438.1269pt.
+ [16 <./chapter/figure/research area topography map_earth.png (PNG copy)>]
+Overfull \hbox (3.29034pt too wide) in paragraph at lines 43--44
+\OT1/ptm/m/n/12 (BC) mix with north-ward trans-port Malv-inas Cur-rent (MC) and
+ form fluc-tu-at-ing Brazil/Malvinas
+ []
+
+<chapter/figure/surface flow with notion.png, id=579, 747.009pt x 548.157pt>
+File: chapter/figure/surface flow with notion.png Graphic file (type png)
+<use chapter/figure/surface flow with notion.png>
+Package pdftex.def Info: chapter/figure/surface flow with notion.png  used on i
+nput line 47.
+(pdftex.def)             Requested size: 426.79134pt x 313.18042pt.
+[17 <./chapter/figure/surface flow with notion.png>] [18] [19] [20]
+Overfull \hbox (2.1757pt too wide) in paragraph at lines 153--155
+\OT1/ptm/m/n/12 form-ing ma-te-rial sur-face (in 3-D flow) or ma-te-rial line (
+2-d flow) through a vari-a-tional theory[[],
+ []
+
+[21]
+<chapter/figure/Schematics of a closed shearline.jpg, id=641, 123.3408pt x 77.8
+107pt>
+File: chapter/figure/Schematics of a closed shearline.jpg Graphic file (type jp
+g)
+<use chapter/figure/Schematics of a closed shearline.jpg>
+Package pdftex.def Info: chapter/figure/Schematics of a closed shearline.jpg  u
+sed on input line 169.
+(pdftex.def)             Requested size: 426.79134pt x 269.30559pt.
+ [22 <./chapter/figure/Schematics of a closed shearline.jpg>]
+<chapter/figure/Haller_Beron-Vera_2013_Coherent Lagrangian vortices_Journal of 
+Fluid Mechanics.jpg, id=651, 267.8808pt x 111.51596pt>
+File: chapter/figure/Haller_Beron-Vera_2013_Coherent Lagrangian vortices_Journa
+l of Fluid Mechanics.jpg Graphic file (type jpg)
+<use chapter/figure/Haller_Beron-Vera_2013_Coherent Lagrangian vortices_Journal
+ of Fluid Mechanics.jpg>
+Package pdftex.def Info: chapter/figure/Haller_Beron-Vera_2013_Coherent Lagrang
+ian vortices_Journal of Fluid Mechanics.jpg  used on input line 191.
+(pdftex.def)             Requested size: 426.79134pt x 177.67194pt.
+ [23 <./chapter/figure/Haller_Beron-Vera_2013_Coherent Lagrangian vortices_Jour
+nal of Fluid Mechanics.jpg>] [24])
+(./chapter/06_Comparison of different eddy detection methods in the Argentine B
+asin.tex
+CHAPTER 3.
+[25
+
+]
+<chapter/figure/anticyclonic eddies numbers from 1993 to 2019.png, id=678, 903.
+375pt x 677.4108pt>
+File: chapter/figure/anticyclonic eddies numbers from 1993 to 2019.png Graphic 
+file (type png)
+<use chapter/figure/anticyclonic eddies numbers from 1993 to 2019.png>
+Package pdftex.def Info: chapter/figure/anticyclonic eddies numbers from 1993 t
+o 2019.png  used on input line 18.
+(pdftex.def)             Requested size: 426.79134pt x 320.03696pt.
+<chapter/figure/cyclonic eddies numbers from 1993 to 2019.png, id=679, 903.375p
+t x 677.4108pt>
+File: chapter/figure/cyclonic eddies numbers from 1993 to 2019.png Graphic file
+ (type png)
+<use chapter/figure/cyclonic eddies numbers from 1993 to 2019.png>
+Package pdftex.def Info: chapter/figure/cyclonic eddies numbers from 1993 to 20
+19.png  used on input line 27.
+(pdftex.def)             Requested size: 426.79134pt x 320.03696pt.
+ [26 <./chapter/figure/anticyclonic eddies numbers from 1993 to 2019.png (PNG c
+opy)>]
+<chapter/figure/10 Anticyclonic eddies trajectories.png, id=687, 903.375pt x 75
+3.0534pt>
+File: chapter/figure/10 Anticyclonic eddies trajectories.png Graphic file (type
+ png)
+<use chapter/figure/10 Anticyclonic eddies trajectories.png>
+Package pdftex.def Info: chapter/figure/10 Anticyclonic eddies trajectories.png
+  used on input line 39.
+(pdftex.def)             Requested size: 454.9594pt x 379.26054pt.
+<chapter/figure/10 Cyclonic eddies trajectories.png, id=688, 903.375pt x 753.05
+34pt>
+File: chapter/figure/10 Cyclonic eddies trajectories.png Graphic file (type png
+)
+<use chapter/figure/10 Cyclonic eddies trajectories.png>
+Package pdftex.def Info: chapter/figure/10 Cyclonic eddies trajectories.png  us
+ed on input line 48.
+(pdftex.def)             Requested size: 454.9594pt x 379.26054pt.
+ [27 <./chapter/figure/cyclonic eddies numbers from 1993 to 2019.png (PNG copy)
+>]
+<chapter/figure/Eulerian eddy number.png, id=695, 627.873pt x 227.541pt>
+File: chapter/figure/Eulerian eddy number.png Graphic file (type png)
+<use chapter/figure/Eulerian eddy number.png>
+Package pdftex.def Info: chapter/figure/Eulerian eddy number.png  used on input
+ line 63.
+(pdftex.def)             Requested size: 426.79134pt x 154.67374pt.
+<chapter/figure/Eulerian eddy radius.png, id=696, 633.348pt x 227.541pt>
+File: chapter/figure/Eulerian eddy radius.png Graphic file (type png)
+<use chapter/figure/Eulerian eddy radius.png>
+Package pdftex.def Info: chapter/figure/Eulerian eddy radius.png  used on input
+ line 73.
+(pdftex.def)             Requested size: 426.79134pt x 153.33008pt.
+ [28 <./chapter/figure/10 Anticyclonic eddies trajectories.png (PNG copy)>]
+<chapter/figure/Cyclonic eddy lifetime Frequency.png, id=703, 426.8748pt x 284.
+5029pt>
+File: chapter/figure/Cyclonic eddy lifetime Frequency.png Graphic file (type pn
+g)
+<use chapter/figure/Cyclonic eddy lifetime Frequency.png>
+Package pdftex.def Info: chapter/figure/Cyclonic eddy lifetime Frequency.png  u
+sed on input line 86.
+(pdftex.def)             Requested size: 426.79134pt x 284.46312pt.
+<chapter/figure/Anticyclonic eddy lifetime Frequency.png, id=704, 426.8748pt x 
+284.5029pt>
+File: chapter/figure/Anticyclonic eddy lifetime Frequency.png Graphic file (typ
+e png)
+<use chapter/figure/Anticyclonic eddy lifetime Frequency.png>
+Package pdftex.def Info: chapter/figure/Anticyclonic eddy lifetime Frequency.pn
+g  used on input line 95.
+(pdftex.def)             Requested size: 426.79134pt x 284.46312pt.
+ [29 <./chapter/figure/10 Cyclonic eddies trajectories.png (PNG copy)>] [30 <./
+chapter/figure/Eulerian eddy number.png> <./chapter/figure/Eulerian eddy radius
+.png>]
+<chapter/figure/coherence of eddy.png, id=716, 531.294pt x 387.192pt>
+File: chapter/figure/coherence of eddy.png Graphic file (type png)
+<use chapter/figure/coherence of eddy.png>
+Package pdftex.def Info: chapter/figure/coherence of eddy.png  used on input li
+ne 113.
+(pdftex.def)             Requested size: 454.9594pt x 331.56659pt.
+ [31 <./chapter/figure/Cyclonic eddy lifetime Frequency.png (PNG copy)>] [32 <.
+/chapter/figure/Anticyclonic eddy lifetime Frequency.png (PNG copy)>] [33 <./ch
+apter/figure/coherence of eddy.png>] [34
+
+])
+(./chapter/03_Eddies features analysis.tex
+CHAPTER 4.
+<chapter/figure/Eddy number per month and per month.png, id=738, 827.09pt x 277
+.035pt>
+File: chapter/figure/Eddy number per month and per month.png Graphic file (type
+ png)
+<use chapter/figure/Eddy number per month and per month.png>
+Package pdftex.def Info: chapter/figure/Eddy number per month and per month.png
+  used on input line 17.
+(pdftex.def)             Requested size: 426.79134pt x 142.95572pt.
+[35
+
+]
+<chapter/figure/eddy radius2.png, id=746, 361.131pt x 373.833pt>
+File: chapter/figure/eddy radius2.png Graphic file (type png)
+<use chapter/figure/eddy radius2.png>
+Package pdftex.def Info: chapter/figure/eddy radius2.png  used on input line 28
+.
+(pdftex.def)             Requested size: 426.79134pt x 441.80359pt.
+ [36 <./chapter/figure/Eddy number per month and per month.png>] [37 <./chapter
+/figure/eddy radius2.png>]
+<chapter/figure/radius vs latitude.png, id=759, 682.9515pt x 512.1534pt>
+File: chapter/figure/radius vs latitude.png Graphic file (type png)
+<use chapter/figure/radius vs latitude.png>
+Package pdftex.def Info: chapter/figure/radius vs latitude.png  used on input l
+ine 37.
+(pdftex.def)             Requested size: 426.79134pt x 320.05602pt.
+<chapter/figure/enlargement vs latitude.png, id=760, 682.9515pt x 512.1534pt>
+File: chapter/figure/enlargement vs latitude.png Graphic file (type png)
+<use chapter/figure/enlargement vs latitude.png>
+Package pdftex.def Info: chapter/figure/enlargement vs latitude.png  used on in
+put line 44.
+(pdftex.def)             Requested size: 426.79134pt x 320.05602pt.
+ [38 <./chapter/figure/radius vs latitude.png (PNG copy)>] [39 <./chapter/figur
+e/enlargement vs latitude.png (PNG copy)>]
+<chapter/figure/velocity vs latitude.png, id=773, 1138.0116pt x 853.5087pt>
+File: chapter/figure/velocity vs latitude.png Graphic file (type png)
+<use chapter/figure/velocity vs latitude.png>
+Package pdftex.def Info: chapter/figure/velocity vs latitude.png  used on input
+ line 54.
+(pdftex.def)             Requested size: 454.9594pt x 341.2151pt.
+<chapter/figure/eddy velocity vs latitude.png, id=774, 569.05399pt x 313.00137p
+t>
+File: chapter/figure/eddy velocity vs latitude.png Graphic file (type png)
+<use chapter/figure/eddy velocity vs latitude.png>
+Package pdftex.def Info: chapter/figure/eddy velocity vs latitude.png  used on 
+input line 61.
+(pdftex.def)             Requested size: 426.79134pt x 234.76pt.
+
+[40 <./chapter/figure/velocity vs latitude.png (PNG copy)>]
+<chapter/figure/eddy polarity map.png, id=780, 327.02174pt x 335.69415pt>
+File: chapter/figure/eddy polarity map.png Graphic file (type png)
+<use chapter/figure/eddy polarity map.png>
+Package pdftex.def Info: chapter/figure/eddy polarity map.png  used on input li
+ne 70.
+(pdftex.def)             Requested size: 426.79134pt x 438.13365pt.
+ [41 <./chapter/figure/eddy velocity vs latitude.png (PNG copy)>] [42 <./chapte
+r/figure/eddy polarity map.png (PNG copy)>]
+<chapter/figure/eddy number vs Polarity.png, id=790, 741.534pt x 244.623pt>
+File: chapter/figure/eddy number vs Polarity.png Graphic file (type png)
+<use chapter/figure/eddy number vs Polarity.png>
+Package pdftex.def Info: chapter/figure/eddy number vs Polarity.png  used on in
+put line 79.
+(pdftex.def)             Requested size: 426.79134pt x 140.79149pt.
+<chapter/figure/eddy radius vs type.png, id=792, 741.534pt x 244.623pt>
+File: chapter/figure/eddy radius vs type.png Graphic file (type png)
+<use chapter/figure/eddy radius vs type.png>
+Package pdftex.def Info: chapter/figure/eddy radius vs type.png  used on input 
+line 88.
+(pdftex.def)             Requested size: 426.79134pt x 140.79149pt.
+ [43 <./chapter/figure/eddy number vs Polarity.png>]
+<chapter/figure/eddy classification map_SNWE2.png, id=799, 327.02174pt x 335.69
+415pt>
+File: chapter/figure/eddy classification map_SNWE2.png Graphic file (type png)
+<use chapter/figure/eddy classification map_SNWE2.png>
+Package pdftex.def Info: chapter/figure/eddy classification map_SNWE2.png  used
+ on input line 102.
+(pdftex.def)             Requested size: 426.79134pt x 438.13365pt.
+
+[44 <./chapter/figure/eddy radius vs type.png>] [45 <./chapter/figure/eddy clas
+sification map_SNWE2.png (PNG copy)>]
+<chapter/figure/eddy map.png, id=812, 435.153pt x 594.804pt>
+File: chapter/figure/eddy map.png Graphic file (type png)
+<use chapter/figure/eddy map.png>
+Package pdftex.def Info: chapter/figure/eddy map.png  used on input line 112.
+(pdftex.def)             Requested size: 409.46068pt x 559.71486pt.
+ [46] [47 <./chapter/figure/eddy map.png>]
+<chapter/figure/eddy coherent.png, id=833, 341.47575pt x 227.6505pt>
+File: chapter/figure/eddy coherent.png Graphic file (type png)
+<use chapter/figure/eddy coherent.png>
+Package pdftex.def Info: chapter/figure/eddy coherent.png  used on input line 1
+33.
+(pdftex.def)             Requested size: 426.79134pt x 284.53114pt.
+<chapter/figure/eddy type proportion.png, id=834, 341.47575pt x 227.6505pt>
+File: chapter/figure/eddy type proportion.png Graphic file (type png)
+<use chapter/figure/eddy type proportion.png>
+Package pdftex.def Info: chapter/figure/eddy type proportion.png  used on input
+ line 140.
+(pdftex.def)             Requested size: 426.79134pt x 284.53114pt.
+[48 <./chapter/figure/eddy coherent.png (PNG copy)>]
+<chapter/figure/120-day eddies.png, id=840, 426.831pt x 560.859pt>
+File: chapter/figure/120-day eddies.png Graphic file (type png)
+<use chapter/figure/120-day eddies.png>
+Package pdftex.def Info: chapter/figure/120-day eddies.png  used on input line 
+149.
+(pdftex.def)             Requested size: 426.79134pt x 560.82338pt.
+ [49 <./chapter/figure/eddy type proportion.png (PNG copy)>] [50 <./chapter/fig
+ure/120-day eddies.png>])
+(./chapter/04_Three-dimensional eddies structures.tex [51]
+CHAPTER 5.
+[52
+
+] [53] [54]
+<chapter/figure/Depth Frequency.png, id=875, 426.8748pt x 341.3553pt>
+File: chapter/figure/Depth Frequency.png Graphic file (type png)
+<use chapter/figure/Depth Frequency.png>
+Package pdftex.def Info: chapter/figure/Depth Frequency.png  used on input line
+ 45.
+(pdftex.def)             Requested size: 341.43306pt x 273.04813pt.
+ [55 <./chapter/figure/Depth Frequency.png (PNG copy)>]
+<chapter/figure/bowl-shaped.png, id=887, 1024.044pt x 512.241pt>
+File: chapter/figure/bowl-shaped.png Graphic file (type png)
+<use chapter/figure/bowl-shaped.png>
+Package pdftex.def Info: chapter/figure/bowl-shaped.png  used on input line 58.
+
+(pdftex.def)             Requested size: 454.9594pt x 227.57526pt.
+<chapter/figure/lens-shaped.png, id=888, 1024.044pt x 517.935pt>
+File: chapter/figure/lens-shaped.png Graphic file (type png)
+<use chapter/figure/lens-shaped.png>
+Package pdftex.def Info: chapter/figure/lens-shaped.png  used on input line 65.
+
+(pdftex.def)             Requested size: 426.79134pt x 215.85576pt.
+<chapter/figure/cone-shaped.png, id=889, 1024.044pt x 512.022pt>
+File: chapter/figure/cone-shaped.png Graphic file (type png)
+<use chapter/figure/cone-shaped.png>
+Package pdftex.def Info: chapter/figure/cone-shaped.png  used on input line 72.
+
+(pdftex.def)             Requested size: 426.79134pt x 213.39145pt.
+ [56]
+[57 <./chapter/figure/bowl-shaped.png> <./chapter/figure/lens-shaped.png>]
+[58 <./chapter/figure/cone-shaped.png>]
+<chapter/figure/cyclonic-3D.png, id=911, 1024.482pt x 512.241pt>
+File: chapter/figure/cyclonic-3D.png Graphic file (type png)
+<use chapter/figure/cyclonic-3D.png>
+Package pdftex.def Info: chapter/figure/cyclonic-3D.png  used on input line 94.
+
+(pdftex.def)             Requested size: 454.9594pt x 227.48146pt.
+<chapter/figure/2014-12-24_6.png, id=912, 1024.482pt x 512.241pt>
+File: chapter/figure/2014-12-24_6.png Graphic file (type png)
+<use chapter/figure/2014-12-24_6.png>
+Package pdftex.def Info: chapter/figure/2014-12-24_6.png  used on input line 10
+1.
+(pdftex.def)             Requested size: 454.9594pt x 227.48146pt.
+ [59 <./chapter/figure/cyclonic-3D.png>] [60 <./chapter/figure/2014-12-24_6.png
+>] [61
+
+])
+(./chapter/07_Conclusion and prospect.tex
+CHAPTER 6.
+[62
+
+] [63]) (./main.bbl
+References
+[64
+
+] [65] [66] [67]
+Underfull \hbox (badness 1147) in paragraph at lines 198--202
+[]\OT1/ptm/m/n/12 George Haller.  Dis-tin-guished ma-te-rial sur-faces and co-h
+er-ent struc-tures in three-
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 210--215
+\OT1/ptm/m/n/12 ti-cal struc-ture of mesoscale ed-dies.  \OT1/ptm/m/it/12 Jour-
+nal of Geo-phys-i-cal Re-search: Oceans\OT1/ptm/m/n/12 ,
+ []
+
+[68] [69] [70] [71])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 223.
+ [72]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 223.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 223.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 223.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 8BE7441FDD706C53D9341511BA5C27DF;3022.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 223.
+ ) 
+Here is how much of TeX's memory you used:
+ 8290 strings out of 480608
+ 132676 string characters out of 5896705
+ 392081 words of memory out of 5000000
+ 23686 multiletter control sequences out of 15000+600000
+ 554147 words of font info for 76 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,16n,31p,1417b,419s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/software for research/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc
+}<d:/software for research/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><d:/software for research/texlive/2020/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx12.pfb><d:/software for research/texlive/2020/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbx8.pfb><d:/software for research/texlive/2020/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/software for research/t
+exlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/software f
+or research/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+d:/software for research/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi6.pfb><d:/software for research/texlive/2020/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb><d:/software for research/texlive/2020/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb><d:/software for research/texlive/2020/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/software for research/texliv
+e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><d:/software for res
+earch/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><d:/softw
+are for research/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pf
+b><d:/software for research/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr7.pfb><d:/software for research/texlive/2020/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr8.pfb><d:/software for research/texlive/2020/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><d:/software for research/texlive/2020/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/software for research/texl
+ive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><d:/software for r
+esearch/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+<d:/software for research/texlive/2020/texmf-dist/fonts/type1/urw/times/utmb8a.
+pfb><d:/software for research/texlive/2020/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb><d:/software for research/texlive/2020/texmf-dist/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on main.pdf (83 pages, 23278308 bytes).
+PDF statistics:
+ 1107 PDF objects out of 1200 (max. 8388607)
+ 932 compressed objects within 10 object streams
+ 247 named destinations out of 1000 (max. 500000)
+ 542 words of extra memory for PDF output out of 10000 (max. 10000000)
+

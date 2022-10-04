@@ -1,0 +1,42 @@
+\BOOKMARK [0][-]{Doc-Start}{Title Page}{}% 1
+\BOOKMARK [0][-]{Doc-Start}{Authorization Page}{}% 2
+\BOOKMARK [0][-]{Doc-Start}{Signature Page}{}% 3
+\BOOKMARK [0][-]{chapter*.1}{Acknowledgments}{}% 4
+\BOOKMARK [0][-]{chapter*.2}{Table of Contents}{}% 5
+\BOOKMARK [0][-]{chapter*.3}{List of Figures}{}% 6
+\BOOKMARK [0][-]{chapter*.4}{List of Tables}{}% 7
+\BOOKMARK [0][-]{chapter*.4}{Abstract}{}% 8
+\BOOKMARK [0][-]{chapter.1}{Chapter 1 Introduction}{}% 9
+\BOOKMARK [1][-]{section.1.1}{Oceanic eddies}{chapter.1}% 10
+\BOOKMARK [1][-]{section.1.2}{The flow pattern of the Argentine Basin}{chapter.1}% 11
+\BOOKMARK [1][-]{section.1.3}{Traditional vortex detection methods}{chapter.1}% 12
+\BOOKMARK [1][-]{section.1.4}{Lagrangian coherent structures}{chapter.1}% 13
+\BOOKMARK [1][-]{section.1.5}{Dynamic Mechanisms of the Mesoscale Eddy}{chapter.1}% 14
+\BOOKMARK [1][-]{section.1.6}{Main content and Organization of the paper}{chapter.1}% 15
+\BOOKMARK [0][-]{chapter.2}{Chapter 2 data and methodology}{}% 16
+\BOOKMARK [1][-]{section.2.1}{Research background}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.1.1}{Data description}{section.2.1}% 18
+\BOOKMARK [2][-]{subsection.2.1.2}{Introduction to the study area}{section.2.1}% 19
+\BOOKMARK [1][-]{section.2.2}{Traditional Eulerian method and its drawback}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Objective Lagrangian eddies detection}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.3.1}{Computation setup}{section.2.3}% 22
+\BOOKMARK [0][-]{chapter.3}{Chapter 3 Comparison of different eddy detection methods}{}% 23
+\BOOKMARK [1][-]{section.3.1}{Introduction of Mesoscale Eddy Trajectory Atlas}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.2}{Statistics results of Eulerian detection method}{chapter.3}% 25
+\BOOKMARK [1][-]{section.3.3}{Comparison of Lagrangian and Eulerian methods}{chapter.3}% 26
+\BOOKMARK [1][-]{section.3.4}{Conclusion}{chapter.3}% 27
+\BOOKMARK [0][-]{chapter.4}{Chapter 4 Eddies features analysis}{}% 28
+\BOOKMARK [1][-]{section.4.1}{Eddies statistics}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.2}{Eddies coherence time}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.3}{Conclusion}{chapter.4}% 31
+\BOOKMARK [0][-]{chapter.5}{Chapter 5 Three-dimensional eddies structures}{}% 32
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 33
+\BOOKMARK [1][-]{section.5.2}{3D structure construction algorithms for an eddy}{chapter.5}% 34
+\BOOKMARK [1][-]{section.5.3}{Eddies penetration depth and three-dimensional shape type}{chapter.5}% 35
+\BOOKMARK [1][-]{section.5.4}{Case studies of oceanic eddies}{chapter.5}% 36
+\BOOKMARK [1][-]{section.5.5}{Discussion and Conclusion}{chapter.5}% 37
+\BOOKMARK [0][-]{chapter.6}{Chapter 6 Conclusion and prospect}{}% 38
+\BOOKMARK [1][-]{section.6.1}{Statistics result of coherent eddies in the Argentine Basin}{chapter.6}% 39
+\BOOKMARK [1][-]{section.6.2}{Three-dimensional structure of coherent eddies}{chapter.6}% 40
+\BOOKMARK [1][-]{section.6.3}{Future work plan}{chapter.6}% 41
+\BOOKMARK [0][-]{chapter*.5}{References}{}% 42
